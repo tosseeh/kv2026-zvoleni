@@ -1,0 +1,6 @@
+popis,poradi,mandaty,pocet_kandidatek,pocet_kandidatu,obyvatel,vek,zena,titul,starosta,typ,ocekavana_p
+"starosta, 1. místo, malá obec",1,9,2,18,450,52,0,0,1,M,0.9977303133
+"žena s titulem, 3. místo, střední obec",3,15,4,50,2500,38,1,1,0,S,0.5456834567
+"25. místo, město",25,35,9,260,60000,29,0,0,0,K,0.0097243963
+nezávislá kandidátka,1,11,3,25,900,45,1,0,0,N,0.2548354432
+"7. místo, strana + nezávislí",7,21,6,110,12000,61,0,1,0,D,0.2554366957
