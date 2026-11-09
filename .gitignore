@@ -1,0 +1,14 @@
+# data se nesdílí (osobní údaje kandidátů), viz data/README.md
+data/*
+!data/README.md
+*.csv
+!tests/cases.csv
+*.zip
+
+# prostředí a tajnosti
+.venv/
+.env
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
